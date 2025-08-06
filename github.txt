@@ -1,0 +1,1 @@
+GitHub is a proprietary developer platform that leverages Git, an open-source distributed version control system, to facilitate collaborative software development. It provides a web-based interface for hosting Git repositories, enabling developers to store, manage, and share their code online.
